@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,OAAO,CAAC;EACJ,gBAAgB,ECFF,OAAO;EDGrB,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,KAAK,ECNM,OAAO;EDOlB,cAAc,EAAE,MAAM;CACzB",
+    "sources": [
+        "Footer.scss",
+        "../../common/colors.scss"
+    ],
+    "names": [],
+    "file": "Footer.css"
+}
